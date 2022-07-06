@@ -143,7 +143,6 @@ button {
 @media screen and (min-width: 800px) {
   img {
     float: right;
-    clear: both;
     max-width: 400px;
     padding: 20px;
   }
@@ -154,10 +153,8 @@ button {
   }
 
   .attract-container {
-    content: "";
     display: table;
     max-width: 800px;
-    clear: both;
   }
 
   .attract1, .attract2 {
